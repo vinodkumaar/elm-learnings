@@ -1,6 +1,7 @@
 ## Installations
 
 npm install -g elm
+
 npm install chokidar --save-dev
 
 
